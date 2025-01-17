@@ -8,7 +8,8 @@ X = chronic_kidney_disease.data.features
 y = chronic_kidney_disease.data.targets
 
 # metadata
-print(chronic_kidney_disease.metadata)
+
+# print(chronic_kidney_disease.metadata)
 
 # variable information
 print(chronic_kidney_disease.variables)
